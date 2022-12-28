@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+    background-image: url(onca.jpeg);
+    background-size: cover;
+}
+
+h3 {
+    color: antiquewhite;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+#nome {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+#E-mail {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+#texto {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+}
